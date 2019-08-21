@@ -1,0 +1,10 @@
+<html>
+<body>
+<?php
+    $hn='localhost';
+    $db='moneybook';
+    $un='root';
+    $pw="";
+?>
+</body>
+</html>
